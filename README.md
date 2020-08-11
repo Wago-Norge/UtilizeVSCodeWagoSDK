@@ -1,4 +1,4 @@
-# UtilizeVSCodeWagoSDK
+## UtilizeVSCodeWagoSDK
 Use Visual Studio Code to build C/C++ applications for Wago PFC
 
 <div align="center">
@@ -6,9 +6,10 @@ Use Visual Studio Code to build C/C++ applications for Wago PFC
   <img src="img\VSCodeWSL.png"><br><br>
 </div>
 
+Before installing any Linux distributions on Windows, you must enable the "Windows Subsystem for Linux" optional feature <br/>
+[Install Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
-test [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/files/latest/download) til å overføre firmware/image fil over til minnekortet.\
-**Sett inn minnekortet** i 750-8x0x og skru på strømmen;  750-8x0x skal nå boot'e fra minnekortet.\
+
 `bruker / passord  =  wagnofi_kunde / wagonorge05`.\
 
 
