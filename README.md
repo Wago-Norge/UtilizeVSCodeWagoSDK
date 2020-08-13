@@ -3,7 +3,7 @@ Use Visual Studio Code to build C/C++ applications for Wago PFC
 
 <div align="center">
    <br>
-  <img src="img\VSCodeWSL.png"><br><br>
+  <img src=".\img\VSCodeWSL.png"><br><br>
 </div>
 
 
@@ -28,8 +28,8 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 </div>
 
 
-## 
-
+## Install the Software-Development-Kit (SDK) 
+Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firmware-sdk) <br/> 
 
 
 ```
