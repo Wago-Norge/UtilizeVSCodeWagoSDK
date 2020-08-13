@@ -3,7 +3,7 @@ Use Visual Studio Code to build C/C++ applications for Wago PFC
 
 <div align="center">
    <br>
-  <img src="https://github.com/Wago-Norge/UtilizeVSCodeWagoSDK/blob/master/img/VSCodeWSL.png"><br><br>
+  <img src="https://github.com/Wago-Norge/UtilizeVSCodeWagoSDK/blob/master/img/VSCodeWSL.PNG"><br><br>
 </div>
 
 
