@@ -24,7 +24,7 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 ## Install the Software-Development-Kit (SDK) 
 Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firmware-sdk) <br/> 
 ```diff
-+Currently there is an issue with WSL so that building can not be done completely. Ptxdist go -q will throw an error. Pending.
+- Currently there is an issue with WSL so that building can not be done completely. Ptxdist go -q will throw an error. Pending.
 ```
 
 
