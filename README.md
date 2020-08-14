@@ -17,7 +17,7 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 
 <div align="center">
    <br>
-  <img src="img\Powershell_wsl2.png"><br><br>
+  <img src="Img\Powershell_wsl2.png"><br><br>
 </div>
 
 > Please note that hyper-V is not needed. Only support for "Windows Subsystem".
