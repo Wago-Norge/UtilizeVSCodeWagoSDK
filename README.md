@@ -14,10 +14,10 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 > We will use the same Ubuntu version as proposed in the [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firmware-sdk) <br/>
 > Please note the difference between WSL version 1 and 2. We will here use version 2.
 
-<div align="left">
-   <br>
-  <img src="Img\Powershell_wsl2.PNG"><br><br>
-</div>
+> <div align="left">
+>   <br>
+>  <img src="Img\Powershell_wsl2.PNG"><br><br>
+> </div>
 
 
 > Please note the settings found in 'Windows Features' and 'Turn Windows Features On Off'<br/>
