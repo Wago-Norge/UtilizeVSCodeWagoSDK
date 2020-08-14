@@ -19,8 +19,9 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
   <img src="Img\Powershell_wsl2.PNG"><br><br>
 </div>
 
-> Please note that hyper-V/Hypervisor platform is not needed. Only support for "Windows Subsystem" <br/>
-> Settings is found in 'Windows Features' and 'Turn Windows Features On Off'. 
+
+> Please note the settings found in 'Windows Features' and 'Turn Windows Features On Off'<br/>
+> Hyper-V/Hypervisor platform is not needed for WSL. Only support for "Windows Subsystem" 
 
 ## Install the Software-Development-Kit (SDK) 
 Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firmware-sdk) <br/> 
