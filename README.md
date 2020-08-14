@@ -39,8 +39,8 @@ mkdir vscode_projects && mkdir vscode_projects/helloworld
 cd vscode_projects/helloworld/
 code .
 ```
-> The first time 'code .' is called it will install the Visual Studio Code server for Ubuntu
-> After installing Visual Studio Code and the 'Remote WSL' extension you should be able to see 'Remote Host' in the borrom left corner
+> The first time 'code .' is called it will install the Visual Studio Code server for Ubuntu <br/>
+> After installing Visual Studio Code and the 'Remote WSL' extension you should be able to see 'Remote Host' in the borrom left corner <br/>
 > <div align="left">
 >   <br>
 > <img src="Img\remotehost.PNG"><br><br>
