@@ -28,17 +28,17 @@ Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firm
 > ***************************************************************************************************************************** <br/>
 
 ## Install Visual Studio Code
-Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started. 
+Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started
 
+### Hello World
+Initiate a 'Hello World' project from WSL
 
-
-
+**Make folder /vscode_projetcs/helloworld and start Visual Studio Code project from here**
 ```
-Mycode
+mkdir vscode_projects && mkdir vscode_projects/helloworld
+cd vscode_projects/helloworld/
+vscode .
 ```
-
-
-
 
 
 
