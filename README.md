@@ -60,13 +60,17 @@ Click 'new file' and create [helloword.c](HelloWorld/helloworld.c) with shown co
 
 **Create task.json** <br>
 Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json) with shown content <br>
+> Pay attention to the IP address and password of the controller/PFC ! Change if necesarry <br>
 > The folder '.vscode' is automatically created in current workspace with the newly created task.json file <br>
 
 **Create launch.json** <br>
 Select 'Run' and 'Add Configuration' to create [launch.json](Json/launch.json) with shown content <br>
 Select 'C++ (GDB/LLDB)' from the installed extension pack (C/C++ extension) <br>
+> Pay attention to the IP address of the controller/PFC ! Change if necesarry <br>
 > This is only for creating the launch.json file and a "template" <br>
 
+**Build and debug the application** <br>
+You will now have 3 different build-task. 
 
 
 
