@@ -24,7 +24,7 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 
 <div align="center">
    <br>
-  <img src="img\WindowsFeaturesOnOff.png"><br><br>
+  <img src="Img\WindowsFeaturesOnOff.png"><br><br>
 </div>
 
 
