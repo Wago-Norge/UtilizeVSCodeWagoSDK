@@ -46,8 +46,16 @@ code .
 > <img src="Img\remotehost.PNG" width="300" hight="300"> <br><br>
 > </div>
 
-**Make a project folder and start Visual Studio Code project from here**
-
+**Create a new c-file**
+Click 'new file' and create 'helloword.c' <br/>
+Copy and paste this text into the file:
+```
+#include <stdio.h>
+int main() {
+  printf("Hello, World!");
+  return 0;
+}
+```
 
 
 
