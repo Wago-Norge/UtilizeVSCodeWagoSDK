@@ -52,7 +52,7 @@ code .
 > </div>
 
 **Create a new c-file** <br>
-Click 'new file' and create [helloword.c](HelloWorld/HelloWorld.c) <br/>
+Click 'new file' and create [helloword.c](HelloWorld/helloworld.c) <br/>
 
 **Create task.json** <br>
 Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json) <br>
