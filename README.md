@@ -30,6 +30,10 @@ Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firm
 ## Install Visual Studio Code
 Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started
 
+## Install C/C++ extension for Visual Studio Code
+Visit the 'Marketplace' inside VS Code and install the C/C++ extension that features GCC compiler etc. <br>
+> We will not use this "toolchain" but rather the one provided by Wago SDK <br>
+
 ## Install sshpass
 ```
 sudo apt-get install sshpass
@@ -52,15 +56,16 @@ code .
 > </div>
 
 **Create a new c-file** <br>
-Click 'new file' and create [helloword.c](HelloWorld/helloworld.c) <br/>
+Click 'new file' and create [helloword.c](HelloWorld/helloworld.c) with shown content <br/>
 
 **Create task.json** <br>
-Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json) <br>
+Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json) with shown content <br>
+> The folder '.vscode' is automatically created in current workspace with the newly created task.json file <br>
 
-
-
-
-
+**Create launch.json** <br>
+Select 'Run' and 'Add Configuration' to create [launch.json](Json/launch.json) with shown content <br>
+Select 'C++ (GDB/LLDB)' from the installed extension pack (C/C++ extension) <br>
+> This is only for creating the launch.json file and a "template" <br>
 
 
 
