@@ -43,7 +43,7 @@ code .
 > After installing Visual Studio Code and the 'Remote WSL' extension you should be able to see 'Remote Host' in the borrom left corner <br/>
 > <div align="left">
 >  <br>
-> <img src="Img\remotehost.PNG" width="100" hight="100"> <br><br>
+> <img src="Img\remotehost.PNG" width="500" hight="500"> <br><br>
 > </div>
 
 **Make a project folder and start Visual Studio Code project from here**
