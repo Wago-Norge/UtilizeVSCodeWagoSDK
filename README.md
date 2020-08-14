@@ -62,9 +62,9 @@ int main() {
 }
 ```
 **Create task.json**
-Select 'Terminal->Configure Tasks' to create task.json
+Select 'Terminal->Configure Tasks' to create [task.json](Json/tasks.json)
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 
 
 
