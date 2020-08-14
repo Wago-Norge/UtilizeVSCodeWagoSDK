@@ -41,7 +41,10 @@ code .
 ```
 > The first time 'code .' is called it will install the Visual Studio Code server for Ubuntu
 > After installing Visual Studio Code and the 'Remote WSL' extension you should be able to see 'Remote Host' in the borrom left corner
-> 
+> <div align="left">
+>   <br>
+> <img src="Img\remotehost.PNG"><br><br>
+> </div>
 
 **Make a project folder and start Visual Studio Code project from here**
 
