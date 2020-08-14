@@ -40,6 +40,8 @@ cd vscode_projects/helloworld/
 code .
 ```
 > The first time 'code .' is called it will install the Visual Studio Code server for Ubuntu
+> After installing Visual Studio Code and the 'Remote WSL' extension you should be able to see 'Remote Host' in the borrom left corner
+> 
 
 **Make a project folder and start Visual Studio Code project from here**
 
