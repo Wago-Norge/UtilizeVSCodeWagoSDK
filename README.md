@@ -3,7 +3,7 @@ Use Visual Studio Code to build C/C++ applications for Wago PFC
 
 <div align="left">
    <br>
-  <img src="Img\VSCodeWSL.png"width="1000" hight="500"> <br><br>
+  <img src="Img\VSCodeWSL.png"width="600" hight="500"> <br><br>
 </div>
 
 ## Installation of WSL and Ubuntu distribution
