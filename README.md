@@ -30,6 +30,11 @@ Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firm
 ## Install Visual Studio Code
 Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started
 
+## Install sshpass
+```
+sudo apt-get install sshpass
+```
+
 ## Example Hello World application
 This example shows how to make, build/compile and debug/download a 'Hello World' application to PFC with Visual Studio Code
 
@@ -52,13 +57,14 @@ Copy and paste this text into the file:
 ```
 #include <stdio.h>
 int main() {
-  printf("Hello, World!");
+  printf("Hello World!");
   return 0;
 }
 ```
+**Create task.json**
+Select 'Terminal->Configure Tasks' to create task.json
 
-
-
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
 
