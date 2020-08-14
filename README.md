@@ -1,7 +1,7 @@
 # Utilize Visual Studio Code for Cross developement using Windows Subsystem for Linux (WSL)
 Use Visual Studio Code to build C/C++ applications for Wago PFC
 
-<div align="center">
+<div align="left">
    <br>
   <img src="Img\VSCodeWSL.png"><br><br>
 </div>
@@ -15,14 +15,14 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 > Please note the difference between WSL version 1 and 2. We will here use version 2.
 > ## Check that v2 fixes build....
 
-<div align="center">
+<div align="left">
    <br>
   <img src="Img\Powershell_wsl2.PNG"><br><br>
 </div>
 
 > Please note that hyper-V is not needed. Only support for "Windows Subsystem".
 
-<div align="center">
+<div align="left">
    <br>
   <img src="Img\WindowsFeaturesOnOff.PNG"><br><br>
 </div>
