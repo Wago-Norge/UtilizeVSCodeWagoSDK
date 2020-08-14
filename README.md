@@ -38,7 +38,7 @@ sudo apt-get install sshpass
 ## Example Hello World application
 This example shows how to make, build/compile and debug/download a 'Hello World' application to PFC with Visual Studio Code
 
-**Make a project folder and start Visual Studio Code project from here**
+**Make a project folder and start Visual Studio Code project from here** <br>
 ```
 mkdir vscode_projects && mkdir vscode_projects/helloworld
 cd vscode_projects/helloworld/
@@ -51,11 +51,11 @@ code .
 > <img src="Img\remotehost.PNG" width="300" hight="300"> <br><br>
 > </div>
 
-**Create a new c-file**
+**Create a new c-file** <br>
 Click 'new file' and create [helloword.c](HelloWorld/HelloWorld.c) <br/>
 
-**Create task.json**
-Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json)
+**Create task.json** <br>
+Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json) <br>
 
 
 
