@@ -27,6 +27,11 @@ Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firm
 > Currently there is an issue with WSL so that building can not be done completely. Ptxdist go -q will throw an error. Pending. <br/>
 > ***************************************************************************************************************************** <br/>
 
+## Install Visual Studio Code
+Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started. 
+
+
+
 
 ```
 Mycode
