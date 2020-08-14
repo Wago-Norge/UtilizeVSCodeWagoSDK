@@ -52,17 +52,10 @@ code .
 > </div>
 
 **Create a new c-file**
-Click 'new file' and create 'helloword.c' <br/>
-Copy and paste this text into the file:
-```
-#include <stdio.h>
-int main() {
-  printf("Hello World!");
-  return 0;
-}
-```
+Click 'new file' and create [helloword.c](HelloWorld/HelloWorld.c) <br/>
+
 **Create task.json**
-Select 'Terminal->Configure Tasks' to create [task.json](Json/tasks.json)
+Select 'Terminal' and 'Configure Tasks' to create [task.json](Json/tasks.json)
 
 
 
