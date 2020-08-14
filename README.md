@@ -15,7 +15,7 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 
 > <div align="left">
 >  <br>
->  <img src="Img\Powershell_wsl2.PNG"><br><br>
+>  <img src="Img\Powershell_wsl2.PNG" width="250" hight="250"> <br><br>
 > </div>
 
 > Hyper-V/Hypervisor platform is not needed for WSL. Only support for "Windows Subsystem" <br/>
