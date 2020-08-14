@@ -1,9 +1,11 @@
 # Utilize Visual Studio Code for Cross developement using Windows Subsystem for Linux (WSL)
 Use Visual Studio Code to build C/C++ applications for Wago PFC
 
+<br><br>
+
 <div align="center">
    <br>
-  <img src="/img/VSCodeWSL.PNG"><br><br>
+  <img src="/img/VSCodeWSL.png"><br><br>
 </div>
 
 
