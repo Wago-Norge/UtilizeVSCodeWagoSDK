@@ -30,17 +30,18 @@ Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firm
 ## Install Visual Studio Code
 Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started
 
-### Hello World
-Initiate a 'Hello World' project from WSL
+## Example Hello World application
+This example shows how to make, build/compile and debug/download a 'Hello World' application to PFC with Visual Studio Code
 
-**Make folder /vscode_projetcs/helloworld and start Visual Studio Code project from here**
+**Make a project folder and start Visual Studio Code project from here**
 ```
 mkdir vscode_projects && mkdir vscode_projects/helloworld
 cd vscode_projects/helloworld/
-vscode .
+code .
 ```
+> The first time 'code .' is called it will install the Visual Studio Code server for Ubuntu
 
-
+**Make a project folder and start Visual Studio Code project from here**
 
 
 
