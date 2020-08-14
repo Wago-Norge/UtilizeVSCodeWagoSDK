@@ -14,7 +14,7 @@ Before installing any Linux distributions on Windows, you must enable the "Windo
 > Please note the difference between WSL version 1 and 2. We will use version 2.
 
 > <div align="left">
->   <br>
+>  <br>
 >  <img src="Img\Powershell_wsl2.PNG"><br><br>
 > </div>
 
@@ -42,8 +42,8 @@ code .
 > The first time 'code .' is called it will install the Visual Studio Code server for Ubuntu <br/>
 > After installing Visual Studio Code and the 'Remote WSL' extension you should be able to see 'Remote Host' in the borrom left corner <br/>
 > <div align="left">
->   <br>
-> <img src="Img\remotehost.PNG" width="50%" hight="50%"> <br><br>
+>  <br>
+> <img src="Img\remotehost.PNG" width="50" hight="50"> <br><br>
 > </div>
 
 **Make a project folder and start Visual Studio Code project from here**
