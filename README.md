@@ -73,7 +73,7 @@ You will now have 3 different build-task and 1 debug task.  Workflow for compile
 4. 'MyDeDugger'-task for start and debug of the application .
 > These tasks could be automated.
 
-The output should then look like this:
+The output of the 4 different operations should look like this:
 <div align="left">
   <br>
  <img src="Img\TasksDone.png" width="800" hight="800"> <br><br>
