@@ -74,6 +74,9 @@ You will now have 3 different build-task and 1 debug task.  Workflow for compile
 3. 'StartGDBserver'-task for launching the debugger server in the PFC.
 4. 'MyDeDugger'-task for start and debug of the application .
 > These tasks could be automated.
-
+<div align="left">
+  <br>
+ <img src="Img\TasksDone.png" width="300" hight="300"> <br><br>
+</div>
 
 
