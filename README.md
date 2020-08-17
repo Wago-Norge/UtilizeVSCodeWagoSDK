@@ -14,6 +14,7 @@ Please note the difference between WSL version 1 and 2. We will use version 2:
  <br>
  <img src="Img\Powershell_wsl2.PNG" width="300" hight="300"> <br><br>
 </div>
+
 > Hyper-V/Hypervisor platform is not needed for WSL. Only support for "Windows Subsystem" <br/>
 > See 'Windows Features' and 'Turn Windows Features On Off'<br/>
 
