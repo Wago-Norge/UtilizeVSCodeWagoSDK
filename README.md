@@ -15,9 +15,7 @@ Please note the difference between WSL version 1 and 2. We will use version 2:
 
 ## Install the Software-Development-Kit (SDK) 
 Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firmware-sdk) <br/> 
-> ***************************************************************************************************************************** <br/>
-> Currently there is an issue with WSL so that building can not be done completely. Ptxdist go -q will throw an error. Pending. <br/>
-> ***************************************************************************************************************************** <br/>
+> *** Currently there is an issue with WSL + Wago SDK. Ptxdist go -q will throw an error. Pending. *** <br/>
 
 ## Install Visual Studio Code
 Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started.
