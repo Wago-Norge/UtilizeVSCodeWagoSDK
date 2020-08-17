@@ -76,7 +76,7 @@ You will now have 3 different build-task and 1 debug task.  Workflow for compile
 The output should then look like this:
 <div align="left">
   <br>
- <img src="Img\TasksDone.png" width="500" hight="500"> <br><br>
+ <img src="Img\TasksDone.png" width="700" hight="700"> <br><br>
 </div>
 
 
