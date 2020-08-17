@@ -26,7 +26,7 @@ Fallow the steps in [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firm
 > ***************************************************************************************************************************** <br/>
 
 ## Install Visual Studio Code
-Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started
+Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode) to get started.
 
 ## Install C/C++ extension for Visual Studio Code
 Visit the 'Marketplace' inside VS Code and install the C/C++ extension that features a GCC compiler etc. <br>
@@ -72,7 +72,7 @@ You will now have 3 different build-task and 1 debug task.  Workflow for compile
 1. 'Compile'-task for building the project with the Linaro arm-linux-gnueabihf-gcc compiler.
 2. 'Transfer'-task for transfering the binary to the PFC root location.
 3. 'StartGDBserver'-task for launching the debugger server in the PFC.
-4. 'MydeDugger'-task for start and debug of the application .
+4. 'MyDeDugger'-task for start and debug of the application .
 > These tasks could be automated.
 
 
