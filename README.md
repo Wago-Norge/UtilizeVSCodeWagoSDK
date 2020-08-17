@@ -10,12 +10,10 @@ Use Visual Studio Code to build C/C++ applications for Wago PFC.
 Before installing any Linux distributions on Windows, you must enable the "Windows Subsystem for Linux" optional feature [Install Windows Subsystem for Linux.](https://docs.microsoft.com/en-us/windows/wsl/install-win10) <br/>
 We will use the same Ubuntu version as proposed in the [WAGO-PFC-SDK installation](https://github.com/WAGO/pfc-firmware-sdk) <br/>
 Please note the difference between WSL version 1 and 2. We will use version 2:
-
 <div align="left">
  <br>
  <img src="Img\Powershell_wsl2.PNG" width="300" hight="300"> <br><br>
 </div>
-
 > Hyper-V/Hypervisor platform is not needed for WSL. Only support for "Windows Subsystem" <br/>
 > See 'Windows Features' and 'Turn Windows Features On Off'<br/>
 
@@ -74,9 +72,10 @@ You will now have 3 different build-task and 1 debug task.  Workflow for compile
 3. 'StartGDBserver'-task for launching the debugger server in the PFC.
 4. 'MyDeDugger'-task for start and debug of the application .
 > These tasks could be automated.
+The output should then look like this:
 <div align="left">
   <br>
- <img src="Img\TasksDone.png" width="300" hight="300"> <br><br>
+ <img src="Img\TasksDone.png" width="400" hight="400"> <br><br>
 </div>
 
 
