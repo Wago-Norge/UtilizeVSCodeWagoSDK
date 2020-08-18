@@ -24,6 +24,29 @@ Visit [Microsoft help page](https://docs.microsoft.com/en-us/windows/wsl/tutoria
 Visit the 'Marketplace' inside VS Code and install the C/C++ extension that features a GCC compiler etc. <br>
 We will not use this "toolchain" but rather the one provided by Wago SDK. <br>
 
+## Install openssh
+Guidelines to be found on the internet. Short version:
+```
+sudo apt remove openssh-server
+sudo apt install openssh-server
+```
+Edit the sshd_config file: 
+```
+sudo vi /etc/ssh/sshd_config
+```
+Change 'PasswordAuthentication' to 'YES' and add the line:
+```
+AllowUsers <yourusername>
+```
+Replace <yourusername> with actually username.
+ 
+Run the ssh server:
+```
+sudo service ssh start
+sudo service ssh --full-restart
+```
+> You must start the server each time WSL is started. 
+
 ## Install sshpass
 ```
 sudo apt-get install sshpass
